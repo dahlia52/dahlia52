@@ -57,7 +57,7 @@
 
 
 ## ✉️ Contact
-<div align="center">
+<div>
   <a href="https://jjaedang.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FF6A00?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
   </a>
