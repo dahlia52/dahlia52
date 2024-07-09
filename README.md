@@ -55,6 +55,23 @@
 </div>
 <br>
 
+
+## ✉️ Contact
+<div align="center">
+  <a href="https://jjaedang.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-FF6A00?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:wjdwlgp2001@ewhain.net">
+    <img
+      src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+   <a href="https://www.linkedin.com/in/jihae-jeong-5775a4290/">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp
+  </a>
+</div>
+<br>
+
 ## 👩🏻‍💻 Stats
 ![Jihae's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahlia52&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
