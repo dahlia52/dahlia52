@@ -6,7 +6,7 @@
 - majoring in Statistics and Computer Science in Ewha Womans University `2020.3~`
 
 
-## Experiences
+## 💫 Experiences
 - Big Data Association Club BOAZ 20th - Analysis `2023.2-2024.2`
 - Big Data Association Club BOAZ 20th - Engineering `2023.2- 2023.7`
 - LG Aimers 4th `2024.1–2024.2`
