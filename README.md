@@ -4,6 +4,7 @@
 
 ## 🔎About me
 - majoring in `Statistics` and `Computer Science` in Ewha Womans University `2020.3~`
+- interested in ML, NLP and data mining
 <br>
 
 ## 💫 Experiences
