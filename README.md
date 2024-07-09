@@ -14,3 +14,10 @@
 - Education Donation Program ‘Ham Seong-Sori’ `2023.5-2023.11`
 - Algorithm Tutoring Altu-Bitu for Coding Test 4th `2023.2–2023.6`
 - Ewha Statistic Analysis Association 6th `2022.3–2023.2`
+
+
+
+## Stats
+![Jihae's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahlia52&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahlia52&layout=compact)
