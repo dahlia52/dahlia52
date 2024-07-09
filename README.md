@@ -4,3 +4,13 @@
 
 ## 🔎About me
 - majoring in Statistics and Computer Science in Ewha Womans University `2020.3~`
+
+
+## Experiences
+- Big Data Association Club BOAZ 20th - Analysis `2023.2-2024.2`
+- Big Data Association Club BOAZ 20th - Engineering `2023.2- 2023.7`
+- LG Aimers 4th `2024.1–2024.2`
+- Codeit Content Partner – Production of data analysis project `2023.8 – 2023.9`
+- Education Donation Program ‘Ham Seong-Sori’ `2023.5-2023.11`
+- Algorithm Tutoring Altu-Bitu for Coding Test 4th `2023.2–2023.6`
+- Ewha Statistic Analysis Association 6th `2022.3–2023.2`
