@@ -16,6 +16,11 @@
 - Ewha Statistic Analysis Association 6th `2022.3–2023.2`
 
 
+## 🏆 Competition
+- 2023 Hanium ICT Mentoring - Silver Award `2023.12.07`
+- 2023 ICT Mentoring Korean Information Processing Association Conference (ACK 2023) - Best Award `2023.11.03.`
+- 2022 Data Mentoring - Encouragement Award (3rd place) `2022.08`
+
 
 ## 👩🏻‍💻 Stats
 ![Jihae's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahlia52&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
