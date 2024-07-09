@@ -4,7 +4,7 @@
 
 ## 🔎About me
 - majoring in `Statistics` and `Computer Science` in Ewha Womans University `2020.3~`
-
+<br>
 
 ## 💫 Experiences
 - Big Data Association Club BOAZ 20th - Analysis `2023.2-2024.2`
