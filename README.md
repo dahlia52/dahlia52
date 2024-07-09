@@ -58,6 +58,12 @@
 ## 👩🏻‍💻 Stats
 ![Jihae's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahlia52&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahlia52&layout=compact)
+<div style="display: flex;">
+  <div style="margin-right: 10px;">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahlia52&layout=compact)
+  </div>
+  <div>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=judy2001)](https://solved.ac/judy2001/)
+  </div>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=judy2001)](https://solved.ac/judy2001/)
