@@ -23,6 +23,7 @@
 
 
 ## ⚒️ Tech Skill
+<div>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://camo.githubusercontent.com/3acadaf5a91db3ba62ecec43442fa48846887424125ad1f054a52509148fdc92/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443332e7376673f267374796c653d666c61742d737175617265266c6f676f3d52266c6f676f436f6c6f723d7768697465" />
   <img src="https://camo.githubusercontent.com/e30246046db4f0638b10cae856169860bf56fc220992070eafdccef804686add/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943432e7376673f267374796c653d666c61742d737175617265266c6f676f3d43266c6f676f436f6c6f723d7768697465" />
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
 
-
+</div>
 
 
 
